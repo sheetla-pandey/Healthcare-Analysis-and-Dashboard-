@@ -134,6 +134,23 @@ An interactive dashboard was created using Power BI to visualize:
 
 ---
 
+## 📊 Dashboard Preview
+
+Below is the interactive Power BI dashboard created as part of this project:
+
+![Healthcare Dashboard](<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f3959033-1e8d-4bea-97f6-86dcc272c1cf" />
+)
+
+### 🔍 Dashboard Highlights
+
+* KPI Cards: Total Patients, Total Revenue, Average Billing, Average Stay Duration
+* Patient Demographics: Gender and age group distribution
+* Hospital Performance: Revenue and patient count by hospital
+* Medical Analysis: Most common diseases and treatment costs
+* Trend Analysis: Monthly patient admissions and growth trends
+* Insurance Analysis: Billing and efficiency by insurance providers
+
+
 ##  Key Insights
 
 * Top 3 hospitals contribute a significant portion of total revenue
