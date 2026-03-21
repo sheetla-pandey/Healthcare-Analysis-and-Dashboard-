@@ -132,14 +132,13 @@ An interactive dashboard was created using Power BI to visualize:
 * Monthly trends
 * Insurance analysis
 
----
 
 ## 📊 Dashboard Preview
 
 Below is the interactive Power BI dashboard created as part of this project:
 
-![Healthcare Dashboard](<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f3959033-1e8d-4bea-97f6-86dcc272c1cf" />
-)
+<img width="1919" height="1079" alt="Healthcare Analysis Dashboard" src="https://github.com/user-attachments/assets/89f28d40-923d-4329-8641-22fe14495a5a" />
+
 
 ### 🔍 Dashboard Highlights
 
